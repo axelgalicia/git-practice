@@ -1,1 +1,3 @@
-This is a text from feature branch.
+This is a text from A feature branch.
+
+This is a new text
